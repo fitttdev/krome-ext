@@ -1,0 +1,12 @@
+body {
+  width: 200px;
+  height: 100px;
+  text-align: center;
+}
+
+#message {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
